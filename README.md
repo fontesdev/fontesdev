@@ -1,7 +1,4 @@
-<div style="display: inline_block" align="center">
-    ### console.log("Hi there 👋");
-</div>
-
+### console.log("Hi there 👋");
 <br/>
 <div style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=cloudflare,vscode,visualstudio,github,git,mysql,nodejs" /><br>
@@ -9,11 +6,10 @@
     <img src="https://skillicons.dev/icons?i=php,c,cpp,cs,dotnet" /><br>
 </div>
 <br>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fontesdev)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Stats](https://github-readme-stats.vercel.app/api/index/?username=fontesdev)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **fontesdev/fontesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
