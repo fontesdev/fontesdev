@@ -1,4 +1,6 @@
-### console.log("Hi there 👋");
+<div style="display: inline_block" align="center">
+    <span style="font-weight: bold">console.log("Hi there 👋");</span>
+</div>
 <br/>
 <div style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=cloudflare,vscode,visualstudio,github,git,mysql,nodejs" /><br>
