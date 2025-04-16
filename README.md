@@ -4,7 +4,7 @@
 <br/>
 <div style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=cloudflare,vscode,visualstudio,github,git,mysql,nodejs,phpstorm,webstorm,rider" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,sass,ts,express,angular,php,laravel,blade" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,sass,ts,express,angular,php,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" /><br>
 </div>
 <br>
