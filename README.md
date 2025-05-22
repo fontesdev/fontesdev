@@ -18,17 +18,6 @@
 
 ---
 
-## ⏱️ Weekly Development Breakdown
-
-<!-- WakaTime Stats -->
-```text
-<!--START_SECTION:waka-->
-<!-- Actual data will be injected here automatically by the WakaTime GitHub Action -->
-<!--END_SECTION:waka-->
-```
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
