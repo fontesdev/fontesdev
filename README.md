@@ -22,11 +22,6 @@
 ```
 
 <div align="center"><sub><i>— Michael Scott, reviewing every pull request since 2005</i></sub></div>
-
-> **Two colours. No gradients to hide a bad layout behind.**
-> I build the whole thing — database, API, interface, the server it dies on at 3 AM.
-> Backend that doesn't fall over. Frontend that makes people stop scrolling.
-
 <br>
 
 ---
