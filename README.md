@@ -77,7 +77,7 @@
 
 ---
 
-## ◼ STACK — no icon soup, just the truth
+## ◼ STACK
 
 ```
 BACKEND    ██████████████████  Laravel · PHP 8 · Node/Express · MySQL · PostgreSQL · Redis
