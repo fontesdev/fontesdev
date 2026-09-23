@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Joao Fontes - full-stack developer">
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#000000" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="vig" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <clipPath id="fr"><rect width="1200" height="340"/></clipPath>
+    <clipPath id="mq"><rect x="0" y="286" width="1200" height="54"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fr)">
+    <rect width="1200" height="340" fill="#ffffff"/>
+    <rect width="1200" height="340" fill="url(#g)"/>
+
+    <!-- sweep -->
+    <rect x="-1200" y="0" width="1200" height="340" fill="url(#vig)" opacity="0.45">
+      <animate attributeName="x" values="-1200;1200" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- wordmark: draws, then fills -->
+    <text x="58" y="160" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="132" font-weight="800"
+          letter-spacing="-5" fill="none" stroke="#000000" stroke-width="2"
+          stroke-dasharray="3000" stroke-dashoffset="3000">JOÃO FONTES
+      <animate attributeName="stroke-dashoffset" from="3000" to="0" dur="2.3s" fill="freeze"/>
+      <animate attributeName="fill" from="#ffffff" to="#000000" begin="1.9s" dur="0.8s" fill="freeze"/>
+    </text>
+
+    <!-- rule -->
+    <rect x="58" y="190" width="0" height="6" fill="#000000">
+      <animate attributeName="width" from="0" to="1084" begin="2.3s" dur="0.5s" fill="freeze"/>
+    </rect>
+
+    <!-- rotating role -->
+    <rect x="34" y="230" width="6" height="30" fill="#000000" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="2.6s" dur="0.2s" fill="freeze"/>
+    </rect>
+    
+    <text x="62" y="252" font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="26" font-weight="500" fill="#000000" opacity="0">FULL-STACK
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" dur="9.6s" begin="2.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="62" y="252" font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="26" font-weight="500" fill="#000000" opacity="0">CREATIVE DEV
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" dur="9.6s" begin="5.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="62" y="252" font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="26" font-weight="500" fill="#000000" opacity="0">SHIP FAST
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" dur="9.6s" begin="7.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="62" y="252" font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="26" font-weight="500" fill="#000000" opacity="0">BREAK LESS
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" dur="9.6s" begin="9.799999999999999s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- marquee -->
+    <g clip-path="url(#mq)">
+      <rect x="0" y="286" width="1200" height="2" fill="#000000" opacity="0.25"/>
+      <text y="322" font-family="'IBM Plex Mono',monospace" font-size="17" fill="#000000" opacity="0.55" letter-spacing="2">
+        <tspan x="0"> ▪ LARAVEL ▪ NEXT.JS ▪ WEBGL ▪ TYPESCRIPT ▪ MYSQL ▪ SWIFT ▪ ESP32 ▪ FLUTTER ▪ LARAVEL ▪ NEXT.JS ▪ WEBGL ▪ TYPESCRIPT ▪ MYSQL ▪ SWIFT ▪ ESP32 ▪ FLUTTER ▪ LARAVEL ▪ NEXT.JS ▪ WEBGL ▪ TYPESCRIPT ▪ MYSQL ▪ SWIFT ▪ ESP32 ▪ FLUTTER ▪ LARAVEL ▪ NEXT.JS ▪ WEBGL ▪ TYPESCRIPT ▪ MYSQL ▪ SWIFT ▪ ESP32 ▪ FLUTTER</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="-620,0" dur="9s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- corner marks -->
+    <path d="M14 14h36M14 14v36" stroke="#000000" stroke-width="3" fill="none"/>
+    <path d="M1186 268h-36M1186 268v-36" stroke="#000000" stroke-width="3" fill="none"/>
+    <text x="1142" y="42" text-anchor="end" font-family="'IBM Plex Mono',monospace" font-size="15" fill="#000000" opacity="0.5">PORTUGAL · 38.7°N 9.1°W</text>
+  </g>
+</svg>
