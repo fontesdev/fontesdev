@@ -15,11 +15,13 @@
 
 <br>
 
-```
+<div align="center">
+<pre>
 █▀█ █▄█ █▀▀     █▀▀ ▀█▀ █▀▀ █▀█     █▀█ █ █ █▀▀ █▀█ █▀▄
 █ █ ███ █▀▀     ▀▀█  █  █▀▀ █▀▀     █▀█ █▀█ █▀▀ █▀█ █ █
-▀▀▀ ▀ ▀ ▀▀▀     ▀▀▀  ▀  ▀▀▀ ▀       ▀ ▀ ▀ ▀ ▀▀▀ ▀ ▀ ▀▀
-```
+▀▀▀ ▀ ▀ ▀▀▀     ▀▀▀  ▀  ▀▀▀ ▀       ▀ ▀ ▀ ▀ ▀▀▀ ▀ ▀ ▀▀ 
+</pre>
+</div>
 
 <div align="center"><sub><i>"I'm always thinking one step ahead. Like a carpenter that makes stairs." — Andy Bernard</i></sub></div>
 <br>
