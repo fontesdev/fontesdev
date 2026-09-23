@@ -156,6 +156,5 @@ CMS        ██████████          WordPress · WooCommerce · P
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<img src="https://komarev.com/ghpvc/?username=fontesdev&style=for-the-badge&color=FFFFFF&label=WITNESSES">
 
 </div>
