@@ -18,9 +18,11 @@
 <br>
 
 ```
-█▀▀ █ █ █ █▀▀ █ █   █▀▀ █▀▀ █▀▀ █▀▀ █▀▀   ▀█▀ █▀▀   █▀▀ █ █ █ █▀▀ █▀▀
-▀▀█ █▀█ █ █▀▀ █▀▀   █ █ █▀▀ ▀▀█ █   ▀▀█    █  ▀▀█   ▀▀█ █▀█ █ █▀▀ ▀▀█
-▀▀▀ ▀ ▀ ▀ ▀   ▀     ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀    ▀  ▀▀▀   ▀▀▀ ▀ ▀ ▀ ▀   ▀▀▀
+██████████  ██      ██  ██████████  ██████████              ██████████  ██████████
+██          ██      ██      ██      ██      ██                  ██          ██
+██████████  ██████████      ██      ██████████                  ██          ██
+        ██  ██      ██      ██      ██                          ██          ██
+██████████  ██      ██  ██████████  ██                      ██████████      ██
 ```
 
 > **Two colours. No gradients to hide a bad layout behind.**
@@ -33,7 +35,7 @@
 
 <div align="center">
 
-## ⟟ THE SNAKE EATS MY COMMITS
+## ◼ THE SNAKE EATS MY COMMITS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fontesdev/fontesdev/output/snake-dark.svg">
@@ -49,7 +51,7 @@
 
 ---
 
-## ⟟ WHAT I ACTUALLY BUILD
+## ◼ WHAT I ACTUALLY BUILD
 
 | ◼ | Domain | Reality check |
 |:--|:--|:--|
@@ -66,23 +68,16 @@
 
 <div align="center">
 
-## ⟟ THE NUMBERS
+## ◼ THE NUMBERS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fontesdev&show_icons=true&hide_border=true&hide=prs&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api?username=fontesdev&show_icons=true&hide_border=true&hide=prs&count_private=true&include_all_commits=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" height="160">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fontesdev&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontesdev&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=000000&text_color=000000" height="160">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/stats-light.svg">
+  <img alt="GitHub stats" src=".github/assets/stats-dark.svg" width="100%">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fontesdev&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888">
-  <img src="https://streak-stats.demolab.com?user=fontesdev&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666" height="160">
-</picture>
+<sub>rendered by <code>.github/scripts/build-stats.py</code> straight off the GitHub GraphQL API, twice a day.<br>
+no github-readme-stats, no rate limits, no broken image when someone else's Vercel goes down.</sub>
 
 </div>
 
@@ -90,7 +85,7 @@
 
 ---
 
-## ⟟ STACK — no icon soup, just the truth
+## ◼ STACK — no icon soup, just the truth
 
 ```
 BACKEND    ██████████████████  Laravel · PHP 8 · Node/Express · MySQL · PostgreSQL · Redis
@@ -104,7 +99,7 @@ CMS        ██████████          WordPress · WooCommerce · F
 <br>
 
 <details>
-<summary><b>⟟ HOW I WORK — open if you're about to hire me</b></summary>
+<summary><b>◼ HOW I WORK — open if you're about to hire me</b></summary>
 
 <br>
 
@@ -127,7 +122,7 @@ CMS        ██████████          WordPress · WooCommerce · F
 </details>
 
 <details>
-<summary><b>⟟ THE 3D VERSION OF MY YEAR</b></summary>
+<summary><b>◼ THE 3D VERSION OF MY YEAR</b></summary>
 
 <br>
 
@@ -138,7 +133,7 @@ CMS        ██████████          WordPress · WooCommerce · F
 </details>
 
 <details>
-<summary><b>⟟ HONEST COMMIT HISTORY</b></summary>
+<summary><b>◼ HONEST COMMIT HISTORY</b></summary>
 
 <br>
 
@@ -157,7 +152,7 @@ CMS        ██████████          WordPress · WooCommerce · F
 
 <div align="center">
 
-## ⟟ TALK
+## ◼ TALK
 
 [![](https://img.shields.io/badge/FONTESDEV.PT-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)](https://fontesdev.pt)
 ![](https://img.shields.io/badge/DISCORD_·_.FONTESS-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)

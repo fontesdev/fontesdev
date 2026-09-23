@@ -1,0 +1,33 @@
+name: Stats Card (self-generated, mono)
+
+on:
+  schedule:
+    - cron: "30 5,17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+        run: python .github/scripts/build-stats.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name Fontes
+          git config user.email 71725885+fontesdev@users.noreply.github.com
+          git add .github/assets/stats-*.svg
+          if git commit -m "chore: refresh stats card"; then
+            git push
+          fi
