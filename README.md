@@ -52,7 +52,7 @@
 |:--|:--|:--|
 | **01** | **Business platforms** | CRMs, ERPs, multi-tenant SaaS. Laravel + Next.js. The unglamorous stuff that runs companies. |
 | **02** | **Interfaces** | Next.js · React · WebGL/GLSL · GSAP. Design systems with tokens, not vibes. |
-| **03** | **Commerce** | WooCommerce, PrestaShop, Portuguese payments (MB WAY / Multibanco) and invoicing. |
+| **03** | **Commerce** | WordPress &amp; WooCommerce, PrestaShop, Shopify. |
 | **04** | **Hardware** | ESP32 fleets talking MQTT to Laravel workers. Firmware that has to survive a factory floor. |
 | **05** | **Native** | Swift / SwiftUI — iOS and macOS. No wrapper, no webview. |
 | **06** | **Infra** | VPS, nginx, Caddy, SSL, CI/CD, and the pager that follows. |
