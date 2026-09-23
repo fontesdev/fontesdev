@@ -147,6 +147,7 @@ CMS        ██████████          WordPress · WooCommerce · P
 
 [![](https://img.shields.io/badge/FONTESDEV.PT-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)](https://fontesdev.pt)
 ![](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+[![](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)](https://www.linkedin.com/in/fontesjpa)
 
 <br>
 
