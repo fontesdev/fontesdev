@@ -68,7 +68,7 @@
 
 <div align="center">
 
-## ◼ THE NUMBERS
+## ◼ RECEIPTS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stats-dark.svg">
