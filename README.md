@@ -134,7 +134,6 @@ CMS        ██████████          WordPress · WooCommerce · P
 | `fix` | I don't want to talk about it 🤫 |
 | `final v2 FINAL` | It was not final |
 | `works on my machine` | A prophecy, not an excuse |
-| `refactor` | Same behaviour, cleaner conscience |
 
 </details>
 
