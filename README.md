@@ -16,14 +16,12 @@
 <br>
 
 ```
-████████    ██████████  ██████████  ██            ██████    ██████████  ██████████
-██      ██  ██          ██          ██          ██      ██  ██      ██  ██
-██      ██  ████████    ██          ██          ██████████  ██████████  ████████
-██      ██  ██          ██          ██          ██      ██  ██    ██    ██
-████████    ██████████  ██████████  ██████████  ██      ██  ██      ██  ██████████
+▀█▀ █ █ █▀█ ▀█▀  █  █▀▀     █ █ █ █ █▀█ ▀█▀     █▀▀ █ █ █▀▀     █▀▀ █▀█ ▀█▀ █▀▄
+ █  █▀█ █▀█  █      ▀▀█     ███ █▀█ █▀█  █      ▀▀█ █▀█ █▀▀     ▀▀█ █▀█  █  █ █
+ ▀  ▀ ▀ ▀ ▀  ▀      ▀▀▀     ▀ ▀ ▀ ▀ ▀ ▀  ▀      ▀▀▀ ▀ ▀ ▀▀▀     ▀▀▀ ▀ ▀ ▀▀▀ ▀▀
 ```
 
-<div align="center"><sub><i>"I DECLARE… <b>BANKRUPTCY!</b>" — Michael Scott, on deploying to production without a backup</i></sub></div>
+<div align="center"><sub><i>— Michael Scott, reviewing every pull request since 2005</i></sub></div>
 
 > **Two colours. No gradients to hide a bad layout behind.**
 > I build the whole thing — database, API, interface, the server it dies on at 3 AM.
