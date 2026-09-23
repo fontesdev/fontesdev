@@ -151,9 +151,9 @@ CMS        ██████████          WordPress · WooCommerce · P
 <br>
 
 ```
-▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
-   BUILT IN THE DARK. LOOKS FINE IN THE LIGHT.
-▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ BUILT IN THE DARK. LOOKS FINE IN THE LIGHT. ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 <img src="https://komarev.com/ghpvc/?username=fontesdev&style=for-the-badge&color=FFFFFF&label=WITNESSES">
