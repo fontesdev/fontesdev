@@ -16,12 +16,12 @@
 <br>
 
 ```
-▀█▀ █ █ █▀█ ▀█▀  █  █▀▀     █ █ █ █ █▀█ ▀█▀     █▀▀ █ █ █▀▀     █▀▀ █▀█ ▀█▀ █▀▄
- █  █▀█ █▀█  █      ▀▀█     ███ █▀█ █▀█  █      ▀▀█ █▀█ █▀▀     ▀▀█ █▀█  █  █ █
- ▀  ▀ ▀ ▀ ▀  ▀      ▀▀▀     ▀ ▀ ▀ ▀ ▀ ▀  ▀      ▀▀▀ ▀ ▀ ▀▀▀     ▀▀▀ ▀ ▀ ▀▀▀ ▀▀
+█▀█ █▄█ █▀▀     █▀▀ ▀█▀ █▀▀ █▀█     █▀█ █ █ █▀▀ █▀█ █▀▄
+█ █ ███ █▀▀     ▀▀█  █  █▀▀ █▀▀     █▀█ █▀█ █▀▀ █▀█ █ █
+▀▀▀ ▀ ▀ ▀▀▀     ▀▀▀  ▀  ▀▀▀ ▀       ▀ ▀ ▀ ▀ ▀▀▀ ▀ ▀ ▀▀
 ```
 
-<div align="center"><sub><i>— Michael Scott, reviewing every pull request since 2005</i></sub></div>
+<div align="center"><sub><i>"I'm always thinking one step ahead. Like a carpenter that makes stairs." — Andy Bernard</i></sub></div>
 <br>
 
 ---
