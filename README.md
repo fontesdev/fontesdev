@@ -8,22 +8,22 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/STATUS-SHIPPING-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
+![](https://img.shields.io/badge/STATUS-WORKING-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 ![](https://img.shields.io/badge/BASE-PORTUGAL-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![](https://img.shields.io/badge/PALETTE-2_COLOURS-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![](https://img.shields.io/badge/EXCUSES-0-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 </div>
 
 <br>
 
 ```
-██████████  ██      ██  ██████████  ██████████              ██████████  ██████████
-██          ██      ██      ██      ██      ██                  ██          ██
-██████████  ██████████      ██      ██████████                  ██          ██
-        ██  ██      ██      ██      ██                          ██          ██
-██████████  ██      ██  ██████████  ██                      ██████████      ██
+████████    ██████████  ██████████  ██            ██████    ██████████  ██████████
+██      ██  ██          ██          ██          ██      ██  ██      ██  ██
+██      ██  ████████    ██          ██          ██████████  ██████████  ████████
+██      ██  ██          ██          ██          ██      ██  ██    ██    ██
+████████    ██████████  ██████████  ██████████  ██      ██  ██      ██  ██████████
 ```
+
+<div align="center"><sub><i>"I DECLARE… <b>BANKRUPTCY!</b>" — Michael Scott, on deploying to production without a backup</i></sub></div>
 
 > **Two colours. No gradients to hide a bad layout behind.**
 > I build the whole thing — database, API, interface, the server it dies on at 3 AM.
