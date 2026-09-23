@@ -146,8 +146,7 @@ CMS        ██████████          WordPress · WooCommerce · P
 ## ◼ TALK
 
 [![](https://img.shields.io/badge/FONTESDEV.PT-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)](https://fontesdev.pt)
-![](https://img.shields.io/badge/DISCORD_·_.FONTESS-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
-[![](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)](https://github.com/fontesdev)
+![](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 <br>
 
