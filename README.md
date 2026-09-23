@@ -71,9 +71,6 @@
   <img alt="GitHub stats" src=".github/assets/stats-dark.svg" width="100%">
 </picture>
 
-<sub>rendered by <code>.github/scripts/build-stats.py</code> straight off the GitHub GraphQL API, twice a day.<br>
-no github-readme-stats, no rate limits, no broken image when someone else's Vercel goes down.</sub>
-
 </div>
 
 <br>
