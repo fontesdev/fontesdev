@@ -88,7 +88,7 @@ FRONTEND   ██████████████████  Next.js · Re
 NATIVE     ███████████         Swift · SwiftUI · SwiftData · Flutter
 EMBEDDED   ████████            ESP32 · C++/Arduino · MQTT
 INFRA      ██████████████      nginx · Caddy · Docker · Ploi · cPanel · GitHub Actions
-CMS        ██████████          WordPress · WooCommerce · Filament · PrestaShop
+CMS        ██████████          WordPress · WooCommerce · PrestaShop · Shopify · Filament
 ```
 
 <br>
