@@ -4,15 +4,15 @@
 <path d="M886 316h-30M886 316v-30" stroke="#000000" stroke-width="3" fill="none"/>
 <text x="40" y="58" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="2" fill="#000000">THE NUMBERS</text>
 <rect x="40" y="72" width="820" height="3" fill="#000000"/>
-<text x="40" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">557</text>
+<text x="40" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">574</text>
 <text x="40" y="150" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">COMMITS / YR</text>
-<text x="216" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">558</text>
+<text x="216" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">575</text>
 <text x="216" y="150" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">CONTRIBUTIONS</text>
 <text x="392" y="128" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">0</text>
 <text x="392" y="150" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">PRs MERGED</text>
 <text x="40" y="210" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">2</text>
 <text x="40" y="232" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">REPOS</text>
-<text x="216" y="210" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">27d</text>
+<text x="216" y="210" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">28d</text>
 <text x="216" y="232" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">STREAK / NOW</text>
 <text x="392" y="210" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#000000">195d</text>
 <text x="392" y="232" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#000000" opacity="0.6">STREAK / BEST</text>
